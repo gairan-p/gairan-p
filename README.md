@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi, thanks for stopping by. 👋
+### I am Gairan. I am tinkering to create my personal website, and host all the r_scripts and related documentations
+### of all my research projects
 <!--
 **gairan-p/gairan-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
